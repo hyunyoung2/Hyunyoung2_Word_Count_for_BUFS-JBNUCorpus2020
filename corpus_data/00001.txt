@@ -1,0 +1,10 @@
+# sent_id = 9
+# file = 00000
+# text = 앞으로도 이런 얘기가 계속 나올 것
+1	앞으로도	앞+으로+도	NOUN	NNG+JKB+JX	_	5	NP_AJT	_	_
+2	이런	이런	DET	MM	_	3	DP	_	_
+3	얘기가	얘기+가	NOUN	NNG+JKS	_	5	NP_SBJ	_	_
+4	계속	계속	ADV	MAG	_	5	AP	_	_
+5	나올	나오+ㄹ	VERB	VV+ETM	_	6	VP_MOD	_	_
+6	것	것	NOUN	NNB	_	0	NP	_	_
+
